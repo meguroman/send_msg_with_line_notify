@@ -10,4 +10,4 @@ $ ruby send_msg_with_line_notify.rb 'ビルの窓ガラスによく張ってあ�
 
 see following blog.
 
-http://www.meguroman.com/send_msg_with_line_notify_on_ruby/#received_msg
+http://www.meguroman.com/send_msg_with_line_notify_on_ruby/
